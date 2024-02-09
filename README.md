@@ -1,4 +1,8 @@
 ### Hi there 👋
+🔭 I’m currently working at Brain Station 23 PLC.
+- 🌱 I’m currently learning Django, AWS
+- 💬 Ask me about anything and also you can share your learning or findings with me.
+- 📫 How to reach me: utshobiswas.bu@gmail.com
 
 <!--
 **utsho34/utsho34** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
